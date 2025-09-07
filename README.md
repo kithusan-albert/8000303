@@ -1,6 +1,7 @@
 
 ##  Overview
 As part of the COMP647 course this repository explores a dataset of network session data. The goal of course is to understand fundamentals of machine learning and industry best practices.  
+
 This repository contains a project for the COMP647 course, demonstrating the application of machine learning fundamentals to a real-world cybersecurity problem. The goal is to taught best practices in to a dataset.
 
 The EDA analysis explores the dataset of network session data to answer the primary question: "What behaviors or network characteristics are most indicative of a potential cyberattack?". The EDA is structured around two main perspectives:
