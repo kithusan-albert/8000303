@@ -10,16 +10,16 @@ The EDA analysis explores the dataset of network session data to answer the prim
 
 Kaggle dataset: https://www.kaggle.com/datasets/mmih78367/intrusion-detection
 
-## How to Run
+### How to Run
 
-# Create a new conda environment (e.g., named 'ml_cyber_env' with Python 3.10)
+### Create a new conda environment (with Python 3.10)
 conda create -n ml_cyber_env python=3.10
 
-# Activate the environment
+### Activate the environment
 conda activate ml_cyber_env
 
-# Install the required packages
+### Install the required packages
 pip install -r requirements.txt
 
-# Install ipykernel if needed
+### Install ipykernel if needed
 conda install ipykernel
