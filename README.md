@@ -1,6 +1,6 @@
 
 ##  Overview
-As part of the COMP647 course this repository explores a dataset of network session data. This repository contains a project for the COMP647 course and demonstrating the understanding of application of machine learning fundamentals to a real-world problem.
+As part of the COMP647 course, this repository explores a dataset of network session data demonstrating the understanding of application of machine learning fundamentals to a real-world problem.
 
 The EDA analysis explores the dataset of network session data to answer the primary question: "What behaviors or network characteristics are most indicative of a potential cyberattack?". The EDA is structured around two main perspectives:
 
