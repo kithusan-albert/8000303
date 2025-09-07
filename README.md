@@ -1,6 +1,6 @@
 
 ##  Overview
-As part of the COMP647 course the repository explores a dataset of network session data. The goal of this project is to understand fundamentals of Machine learning.
+As part of the COMP647 course this repository explores a dataset of network session data. The goal of course is to understand fundamentals of machine learning and industry best practices.  
 
 The analysis explores a dataset of network session data to answer the primary question: "What behaviors or network characteristics are most indicative of a potential cyberattack?". The EDA is structured around two main perspectives:
 1.  The Users Behavior: Focuses on actions and attributes related to the user, such as login attempts and IP reputation.
