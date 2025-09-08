@@ -2,6 +2,8 @@
 ##  Overview
 As part of the COMP647 course, this repository explores a dataset of network session data demonstrating the understanding of application of machine learning fundamentals to a real-world problem.
 
+The course focus on Real world problem solving using different types of machine learning algorithms for industrial domains. Identification of inherent characteristics and features of data to obtain hidden patterns and knowledge discovery to understand complex systems.
+
 The EDA analysis explores the dataset of network session data to answer the primary question: "What behaviors or network characteristics are most indicative of a potential cyberattack?". The EDA is structured around two main perspectives:
 
 1.  The Users Behavior: Focuses on actions and attributes related to the user, such as login attempts and IP reputation.
