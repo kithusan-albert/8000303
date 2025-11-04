@@ -1,5 +1,7 @@
 Name: Kithusan Albert
+
 Student ID: 8000303 
+
 Course: COMP647 - Machine Learning and Applications 
 
 ##  Overview
