@@ -1,6 +1,6 @@
 
 ##  Overview
-As part of the COMP647 course, this repository explores a dataset of network session data demonstrating the understanding of application of machine learning fundamentals to a real-world problem.
+Explores a dataset of network session data demonstrating the understanding of application of machine learning fundamentals to a real-world problem.
 
 The course focus on real world problem solving using different types of machine learning algorithms for industrial domains. Identification of inherent characteristics and features of data to obtain hidden patterns and knowledge discovery to understand complex systems.
 
